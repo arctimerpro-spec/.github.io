@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.stormyskyes.arctimerpro",
+    "sha256_cert_fingerprints": ["94:77:1E:57:D2:38:6F:3A:D8:47:A7:7F:E1:76:D6:BA:41:8C:12:AB:DE:8C:5F:99:7A:5F:C8:2D:B4:64:34:BC"]
+  }
+}]
